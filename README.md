@@ -18,7 +18,7 @@ Binds:
 - Reset scale: Ctrl+0
 - View Help link: Ctrl+H
 - View info: Ctrl+I
-- View text editing keybinds (if you suddenly have forgotten them): Ctrl+K
+- View text editing keybinds (if you have forgotten them suddenly): Ctrl+K
 - Quit program: Ctrl+Q
 
 I think that's all.
