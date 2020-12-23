@@ -21,5 +21,6 @@ Binds:
 - View text editing keybinds (if you have forgotten them suddenly): Ctrl+K
 - Quit program: Ctrl+Q
 
+
 I think that's all.
 Enjoy)
